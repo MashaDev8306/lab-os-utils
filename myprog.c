@@ -1,3 +1,5 @@
+//work with arrays
+
 #include <stdio.h>
 #include <stdlib.h>
 
